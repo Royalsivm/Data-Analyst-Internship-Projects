@@ -13,15 +13,19 @@ As a Data Analyst intern, my responsibilities included:
 
 ## Projects
 1. **HR Data Analysis**: Analyzed employee data to identify trends and patterns related to employee satisfaction and retention.
-LINKEDIN - https://www.linkedin.com/posts/shivamsharma32_hr-data-analysis-activity-7161307290480910336-FNe0?utm_source=share&utm_medium=member_desktop
+   
+   LINKEDIN - https://www.linkedin.com/posts/shivamsharma32_hr-data-analysis-activity-7161307290480910336-FNe0?utm_source=share&utm_medium=member_desktop
 
 3. **Diabetes Prediction**: Analyzed data to predict the likelihood of diabetes based on patient data.
+   
    LINKEDIN - https://www.linkedin.com/posts/shivamsharma32_diabetes-prediction-activity-7162726664051830784-YnPc?utm_source=share&utm_medium=member_desktop
    
 5. **Pharma Data Analysis**: Analyzed sales and marketing data to identify opportunities for improving business performance.
+   
    LINKEDIN - https://www.linkedin.com/posts/shivamsharma32_pharma-data-anaysis-activity-7165917346929258496-KO_8?utm_source=share&utm_medium=member_desktop
    
 7. **Employee Data Analysis**: Conducted a comprehensive analysis of employee performance and engagement metrics.
+   
    LinkedIN - https://www.linkedin.com/posts/shivamsharma32_employee-data-analysis-activity-7164206090383974400-Y-V0?utm_source=share&utm_medium=member_desktop
 
 ## Technologies Used
